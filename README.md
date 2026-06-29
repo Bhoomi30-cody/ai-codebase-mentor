@@ -28,7 +28,18 @@ https://ai-codebase-mentor.vercel.app
 
 ## 📷 Screenshots
 
-(Add screenshots here later.)
+
+### Home Page
+
+![Home](./screenshots/home.png)
+
+### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### AI Report
+
+![AI Report](./screenshots/report.png)
 
 ## Installation
 
