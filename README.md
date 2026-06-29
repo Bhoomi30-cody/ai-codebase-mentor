@@ -1,16 +1,42 @@
-# React + Vite
+# 🤖 AI Codebase Mentor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered GitHub Repository Analyzer that analyzes any public GitHub repository and generates an AI-powered summary, difficulty level, required skills, learning roadmap, and mini project recommendations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://ai-codebase-mentor.vercel.app
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Analyze any public GitHub repository
+- AI-generated project summary
+- Difficulty analysis
+- Skills required
+- Learning roadmap
+- Mini project suggestions
+- Recent repository history
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- GitHub REST API
+- Gemini AI
+- Tailwind CSS
+- Vercel
+
+## 📷 Screenshots
+
+(Add screenshots here later.)
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+**Bhoomikaa S**
